@@ -5,7 +5,33 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/Characters/MeganCharacter/MEGAN.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/Characters/MeganCharacter/BPCharacter_Megan.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/Characters/MeganCharacter/Ch22_body.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/Characters/MeganCharacter/Ch22_1001_Diffuse.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/Characters/MeganCharacter/Ch22_1001_Specular.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/Characters/MeganCharacter/Ch22_1001_Glossiness.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/Characters/MeganCharacter/Ch22_1001_Normal.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/Characters/MeganCharacter/Ch22_hair.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/Characters/MeganCharacter/Ch22_1002_Diffuse.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/Characters/MeganCharacter/Ch22_1002_Normal.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/Characters/MeganCharacter/MEGAN_Skeleton.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/Characters/MeganCharacter/MEGAN_PhysicsAsset.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/Characters/MeganCharacter/Animation/Idle.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/NewCharacter/Animation/RBS_MM_WalkRun.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/NewCharacter/Animation/RMM_Idle.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/NewCharacter/Animation/RMM_Land.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/NewCharacter/Animation/RMM_Fall_Loop.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/NewCharacter/Animation/RMM_Jump.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/NewCharacter/Animation/RMM_Run_Fwd.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/NewCharacter/Animation/RMM_Walk_Fwd.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/NewCharacter/Animation/RMM_Walk_InPlace.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/NewCharacter/Animation/RABP_Manny.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/Crouch/Crouch.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/Crouch/CrouchWalk.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/LiminalSpace/LiminalSpace/Content/Characters/Mannequins/Animations/ABP_Manny.uasset"
 			]
 		}
 	]
